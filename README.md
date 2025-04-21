@@ -1,2 +1,3 @@
 # SQL-Music-Store-Analytics
 SQL project using the Chinook music store database to analyze customer behavior, sales trends, and music preferences with advanced queries.
+A hands-on SQL data analysis project built on the Chinook music store database, designed to uncover meaningful business insights. Through a series of real-world questions, this project explores customer behavior, revenue patterns, and music preferences using advanced SQL techniques — including joins, CTEs, subqueries, and window functions. Perfect for learners and analysts looking to strengthen their SQL skills with a practical, music-themed dataset.
